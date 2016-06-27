@@ -1,0 +1,1 @@
+# esencial-wordpress
